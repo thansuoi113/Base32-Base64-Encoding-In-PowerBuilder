@@ -1,0 +1,8 @@
+﻿LIBRARY "BaseEncoding"
+      DESCRIPTION 'BaseEncoding Base64 Base32'
+      EXPORTS
+      ; Explicit exports can go here
+      GetBase32Encode
+      GetBase32Decode
+      GetBase64Encode
+      GetBase64Decode
